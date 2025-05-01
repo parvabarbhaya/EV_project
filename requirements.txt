@@ -1,0 +1,7 @@
+Libraries Required for the project are :-
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
